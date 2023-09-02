@@ -17,23 +17,23 @@ const services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>User-Centered Design: Prioritize user needs.</p>
             </li>
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Visual Storytelling: Engaging, brand-aligned visuals. </p>
             </li>
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Interactive Prototyping: Test user experience early.</p>
             </li>
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Responsive Design: Mobile-first approach.</p>
             </li>
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Design Systems: Maintain brand consistency.</p>
             </li>
           </ul>
         </article>
@@ -44,27 +44,27 @@ const services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Cutting-Edge Tech: Implement the latest web technologies.</p>
             </li>
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Pixel-Perfect Design: Meticulous attention to detail.</p>
             </li>
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Performance Optimization: Speed and SEO are priorities.</p>
             </li>
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Cross-Platform Proficiency: Consistency across devices.</p>
             </li>
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Accessibility Advocacy: Inclusive web design.</p>
             </li>
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Collaborative Workflow: Client involvement throughout.</p>
             </li>
           </ul>
         </article>
@@ -75,23 +75,23 @@ const services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Strategic Planning: Content aligns with goals.</p>
             </li>
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>SEO Optimization: Improve search rankings.</p>
             </li>
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Compelling Storytelling: Engage and resonate.</p>
             </li>
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Versatility: Content for various platforms.</p>
             </li>
             <li>
               <BiCheck className='serives_list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Content Revitalization: Update and enhance existing content.</p>
             </li>
           </ul>
         </article>
